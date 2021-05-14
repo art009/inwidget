@@ -2,8 +2,8 @@
 
 namespace aik27\inwidget\InWidget;
 
-use InWidget\Api\ApiModel;
-use InWidget\Exception\InWidgetException;
+use aik27\inwidget\InWidget\Api\ApiModel;
+use aik27\inwidget\InWidget\Exception\InWidgetException;
 
 /**
  * Project:     inWidget: show pictures from instagram.com on your site!

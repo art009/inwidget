@@ -1,6 +1,6 @@
 <?php
 
-namespace InWidget\Exception;
+namespace aik27\inwidget\InWidget\Exception;
 
 /**
  * Project:     inWidget: show pictures from instagram.com on your site!
