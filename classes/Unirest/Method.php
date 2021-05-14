@@ -6,7 +6,7 @@
  * http://www.iana.org/assignments/http-methods/http-methods.xhtml
  */
 
-namespace Unirest;
+namespace aik27\inwidget\Unirest;
 
 interface Method
 {
