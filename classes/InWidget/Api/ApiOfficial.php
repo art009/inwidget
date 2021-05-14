@@ -2,7 +2,7 @@
 
 namespace aik27\inwidget\InWidget\Api;
 
-use Unirest\Request;
+use aik27\inwidget\Unirest\Request;
 
 /**
  * Project:     inWidget: show pictures from instagram.com on your site!

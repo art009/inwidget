@@ -7,7 +7,7 @@
  * Time:    11:50
  */
 
-namespace InstagramScraper\Traits;
+namespace aik27\inwidget\InstagramScraper\Traits;
 
 
 /**

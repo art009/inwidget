@@ -1,20 +1,20 @@
 <?php
 
-namespace InstagramScraper;
+namespace aik27\inwidget\InstagramScraper;
 
-use InstagramScraper\Exception\InstagramAuthException;
-use InstagramScraper\Exception\InstagramException;
-use InstagramScraper\Exception\InstagramNotFoundException;
-use InstagramScraper\Model\Account;
-use InstagramScraper\Model\Comment;
-use InstagramScraper\Model\Like;
-use InstagramScraper\Model\Location;
-use InstagramScraper\Model\Media;
-use InstagramScraper\Model\Story;
-use InstagramScraper\Model\Tag;
-use InstagramScraper\Model\UserStories;
-use phpFastCache\CacheManager;
-use Unirest\Request;
+use aik27\inwidget\InstagramScraper\Exception\InstagramAuthException;
+use aik27\inwidget\InstagramScraper\Exception\InstagramException;
+use aik27\inwidget\InstagramScraper\Exception\InstagramNotFoundException;
+use aik27\inwidget\InstagramScraper\Model\Account;
+use aik27\inwidget\InstagramScraper\Model\Comment;
+use aik27\inwidget\InstagramScraper\Model\Like;
+use aik27\inwidget\InstagramScraper\Model\Location;
+use aik27\inwidget\InstagramScraper\Model\Media;
+use aik27\inwidget\InstagramScraper\Model\Story;
+use aik27\inwidget\InstagramScraper\Model\Tag;
+use aik27\inwidget\InstagramScraper\Model\UserStories;
+//use phpFastCache\CacheManager;
+use aik27\inwidget\Unirest\Request;
 
 class Instagram
 {

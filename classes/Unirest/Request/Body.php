@@ -1,9 +1,9 @@
 <?php
 
-namespace Unirest\Request;
+namespace aik27\inwidget\Unirest\Request;
 
-use Unirest\Request as Request;
-use Unirest\Exception as Exception;
+use aik27\inwidget\Unirest\Request as Request;
+use aik27\inwidget\Unirest\Exception as Exception;
 
 class Body
 {

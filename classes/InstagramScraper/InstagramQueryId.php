@@ -1,6 +1,6 @@
 <?php
 
-namespace InstagramScraper;
+namespace aik27\inwidget\InstagramScraper;
 
 
 class InstagramQueryId

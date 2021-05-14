@@ -1,8 +1,8 @@
 <?php
 
-namespace InstagramScraper\Model;
+namespace aik27\inwidget\InstagramScraper\Model;
 
-use InstagramScraper\Endpoints;
+namespace aik27\inwidget\InstagramScraper\Endpoints;
 
 /**
  * Class Media
