@@ -11,6 +11,11 @@
             "email": "aik@inwidget.ru"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "aik27\\inwidget\\": "classes"
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace InWidget\Api;
+namespace aik27\inwidget\InWidget\Api;
 
 /**
  * Project:     inWidget: show pictures from instagram.com on your site!

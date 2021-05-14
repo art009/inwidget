@@ -1,6 +1,6 @@
 <?php
 
-namespace Unirest;
+namespace aik27\inwidget\Unirest;
 
 class Request
 {

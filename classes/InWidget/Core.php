@@ -1,6 +1,6 @@
 <?php
 
-namespace InWidget;
+namespace aik27\inwidget\InWidget;
 
 use InWidget\Api\ApiModel;
 use InWidget\Exception\InWidgetException;

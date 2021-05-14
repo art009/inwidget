@@ -1,6 +1,6 @@
 <?php
 
-namespace InWidget\Api;
+namespace aik27\inwidget\InWidget\Api;
 
 use Unirest\Request;
 
